@@ -1,3 +1,4 @@
+![header_img](imgs/header.png)
 # COMP 568 — Deep Learning System Design & Optimization
 
 This repository contains experiment code and notes for **COMP 568: Deep Learning System Design and Optimization**.
